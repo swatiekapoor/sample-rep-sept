@@ -6,4 +6,4 @@
 
 **Location:** San Francisco, CA, USA
 
-**Vacation:** Paris
+**Vacation:** Paris, France
