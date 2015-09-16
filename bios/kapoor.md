@@ -4,4 +4,4 @@
 
 **Occupation:** Student
 
-**Location:** San Francisco
+**Location:** San Francisco, CA, USA
