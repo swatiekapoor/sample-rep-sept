@@ -5,3 +5,5 @@
 **Occupation:** Student
 
 **Location:** San Francisco, CA, USA
+
+**Vacation:** Paris
